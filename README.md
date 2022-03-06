@@ -1,15 +1,13 @@
-### Olá! Sejá bem-vindo sou Bruno 👋
-
+### Olá! Sejá bem-vindo! Sou o Bruno 👋
+##
 - 🔭 Trabalhando para ser Desenvolvedor Full Stack
 - 🌱 Estudando Javascript, Node, React, Mongo e Next JS
 - 🤓 Conhecimento - HTML5 / CSS3 
-
 ##
-
 <div align="center">
   <a href="https://github.com/Brunodsoares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunodsoares&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodsoares&amp;layout=compact&amp;langs_count=7&amp;theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunodsoares&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodsoares&amp;layout=compact&amp;langs_count=7&amp;theme=jolly"/>
 </div>
 
   <div style="display: inline_block"><br>
