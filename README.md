@@ -4,10 +4,12 @@
 - 🌱 Estudando Javascript, Node, React, Mongo e Next JS
 - 🤓 Conhecimento - HTML5 / CSS3 
 
+##
+
 <div align="center">
   <a href="https://github.com/Brunodsoares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunodsoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodsoares&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunodsoares&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodsoares&amp;layout=compact&amp;langs_count=7&amp;theme=jolly"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -17,8 +19,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  
-</div>
+  </div>
   
   ##
 
