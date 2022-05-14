@@ -1,8 +1,8 @@
 ### Olá! Sejá bem-vindo! Sou o Bruno 👋
 ##
-- 🔭 Trabalhando para ser Desenvolvedor Full Stack
-- 🌱 Estudando Javascript, Node, React, Mongo e Next JS
-- 🤓 Conhecimento - HTML5 / CSS3 
+- 🔭 Estudando para ser Desenvolvedor Full Stack
+- 🌱 Hard Skill = HTML5 | CSS3 | JS | REACT | SASS | Tailwind | Bootstrap | NODE | GIT 
+- 🤓 Softy Skill = Resiliência | Tolerância | flexibilidade | Inteligência emocional | Persuasão | Negociação }  
 ##
 <div align="center">
   <a href="https://github.com/Brunodsoares">
@@ -12,10 +12,10 @@
 
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-react" height="30" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="left" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Bruno-react" height="30" width="40"  src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
     
   </div>
   
