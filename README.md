@@ -1,8 +1,8 @@
 ### Olá! Sejá bem-vindo! Sou o Bruno 👋
 ##
-- 🔭 Estudando para ser Desenvolvedor Full Stack
-- 🌱 Hard Skill = HTML5 | CSS3 | JS | REACT | SASS | Tailwind | Bootstrap | NODE | GIT 
-- 🤓 Softy Skill = Resiliência | Tolerância | flexibilidade | Inteligência emocional | Persuasão | Negociação }  
+- 👨‍🎓 Estudando para ser Desenvolvedor Full Stack
+- 💪 Hard Skill = HTML5 | CSS3 | JS | REACT | SASS | Tailwind | Bootstrap | NODE | GIT 
+- 🧠 Softy Skill = Resiliência | Tolerância | flexibilidade | Inteligência emocional | Persuasão | Negociação }  
 ##
 <div align="center">
   <a href="https://github.com/Brunodsoares">
