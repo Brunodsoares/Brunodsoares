@@ -1,6 +1,6 @@
 ### Olá! Sejá bem-vindo! Sou o Bruno 👋
 ##
-- 👨‍🎓 Estudando para ser Desenvolvedor Full Stack
+- 👨‍🎓 Desenvolvedor Full Stack
 - 💪 Hard Skill = HTML5 | CSS3 | JS | REACT | SASS | Tailwind | Bootstrap | NODE | GIT 
 - 🧠 Softy Skill = Resiliência | Tolerância | flexibilidade | Inteligência emocional | Persuasão | Negociação   
 ##
